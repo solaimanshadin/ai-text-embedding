@@ -1,0 +1,19 @@
+{
+  "name": "vector-embedding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Solaiman Shadin",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^3.0.0",
+    "@supabase/supabase-js": "^2.47.16",
+    "dotenv": "^16.4.7",
+    "openai": "^4.79.1"
+  }
+}
